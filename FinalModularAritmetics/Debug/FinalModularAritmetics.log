@@ -1,0 +1,4 @@
+﻿  tasks.cpp
+C:\Users\Цвети\source\repos\FinalModularAritmetics\tasks.cpp(429,9): warning C4101:  'k': unreferenced local variable
+C:\Users\Цвети\source\repos\FinalModularAritmetics\tasks.cpp(429,9): warning C4101: C:\Users\Цвети\source\repos\FinalModularAritmetics\tasks.cpp(463) : warning C4715: 'task_fourteen': not all control paths return a value
+  FinalModularAritmetics.vcxproj -> C:\Users\Цвети\source\repos\FinalModularAritmetics\Debug\FinalModularAritmetics.exe
